@@ -10,7 +10,7 @@
 
 ## Preview Desktop
 
-<img src="images/Design-Desktop.PNG">
+<img src="imagens/Preview-Desktop.PNG">
 
 ## Preview Mobile 
 
