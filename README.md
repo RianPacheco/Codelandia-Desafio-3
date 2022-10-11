@@ -12,10 +12,6 @@
 
 <img src="imagens/Preview-Desktop.PNG">
 
-## Preview Mobile 
-
-<img src="imagens/Preview-Mobile.PNG">
-
 # Tecnologias utilizadas
 
 ## Front end
