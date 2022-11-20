@@ -1,6 +1,6 @@
 # Codelandia-Desafio-3 &copy; Rian Pacheco 🚀
 
-### link do projeto - https://rianpacheco.github.io/Codelandia-Desafio-3/
+### link do projeto - https://rianpacheco.github.io/One-Page/
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
